@@ -11,3 +11,18 @@
 	font-family: 'Digital Disco Thin';
 	box-sizing: border-box;
 }
+
+body {
+	background: #e3edf7;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.skill {
+	width: 160px;
+	height: 160px;
+	/*background-color: cornflowerblue; */
+	position: relative;
+}
