@@ -72,6 +72,6 @@ svg {
 
 @keyframes anim {
 	100% {
-		stroke-dashoffset: 0;
+		stroke-dashoffset: 165;
 	}
 }
